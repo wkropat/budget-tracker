@@ -18,7 +18,7 @@ You can download this app to your phone as a stand alone app that also works off
 
 ## Deployment
 
-You can find this app deployed on [heroku here](linkhere.)
+You can find this app deployed on [heroku here](https://warm-stream-23687.herokuapp.com/)
 The github repository is [here](github.com/wkropat/budget-tracker)
 
 
